@@ -1,5 +1,5 @@
 # ibm-developer-watsonx
-Store code used in Watsonx Tutorials for [IBM Developer Website](developer.ibm.com)
+Store code used in Watsonx Tutorials for [IBM Developer Website](https://developer.ibm.com/)
 
 Code in this repository appears in the following articles:
 
